@@ -31,5 +31,5 @@ This web app lets you convert values into funny and unusual units:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/rowan26/Project_CS50.git
+cd ProjectCS50
